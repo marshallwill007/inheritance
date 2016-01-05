@@ -1,7 +1,15 @@
 #para1{
-  font-weight: bold;
+  font-weight: 100;
 }
 
-h2{
-  font-weight: normal;
+#para2{
+  font-weight: 300;
+}
+
+#para3{
+  font-weight: 700;
+}
+
+#para4{
+  font-weight: 900;
 }
