@@ -1,15 +1,19 @@
 #para1{
   font-weight: 100;
+  font-family: serif;
 }
 
 #para2{
   font-weight: 300;
+  font-family: sans-serif;
 }
 
 #para3{
   font-weight: 700;
+  font-family: monospace;
 }
 
 #para4{
   font-weight: 900;
+  font-family: cursive;
 }
