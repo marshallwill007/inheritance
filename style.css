@@ -4,9 +4,17 @@ body{
   font-family: "Raleway", sans-serif;
 }
 
+h2{
+  color: Red;
+}
+
+h3{
+  color: Blue;
+}
+
 #para1{
   font-weight: 100;
-  font-size: 2em;
+  font-size: 1em;
   font-family: "Raleway", serif;
 }
 
@@ -26,5 +34,5 @@ body{
 }
 
 #exercise{
-  font-size: 2em;
+  font-size: 1em;
 }
